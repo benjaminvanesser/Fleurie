@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 2,
+			"revision" : 7,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 218.0, 170.0, 1064.0, 609.0 ],
+		"rect" : [ 224.0, 186.0, 1064.0, 609.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -72,7 +72,6 @@
 							"parameter_mmax" : 30.0,
 							"parameter_mmin" : 1.0,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "timer",
 							"parameter_type" : 0
 						}
@@ -108,7 +107,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -359,7 +358,6 @@
 
 							}
  ],
-						"originid" : "pat-7004",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -1308,10 +1306,6 @@
 					}
 ,
 					"patching_rect" : [ 3485.25, 1022.0, 105.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p tomanualpointer"
 				}
 
@@ -1328,7 +1322,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1579,7 +1573,6 @@
 
 							}
  ],
-						"originid" : "pat-7006",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -2528,10 +2521,6 @@
 					}
 ,
 					"patching_rect" : [ 2593.5, 1024.0, 105.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p tomanualpointer"
 				}
 
@@ -2548,7 +2537,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2799,7 +2788,6 @@
 
 							}
  ],
-						"originid" : "pat-7008",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -3748,10 +3736,6 @@
 					}
 ,
 					"patching_rect" : [ 1639.0, 1021.0, 105.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p tomanualpointer"
 				}
 
@@ -3768,7 +3752,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4085,7 +4069,6 @@
 
 							}
  ],
-						"originid" : "pat-7010",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -5034,10 +5017,6 @@
 					}
 ,
 					"patching_rect" : [ 745.115379095077515, 1001.0, 105.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p tomanualpointer"
 				}
 
@@ -5308,7 +5287,6 @@
 							"parameter_longname" : "pointers",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointers",
 							"parameter_type" : 2
 						}
@@ -5333,7 +5311,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -5863,7 +5841,6 @@
 											"parameter_invisible" : 2,
 											"parameter_longname" : "nodes[8]",
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "nodes",
 											"parameter_type" : 3
 										}
@@ -6117,7 +6094,6 @@
 
 							}
  ],
-						"originid" : "pat-7012",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -7066,10 +7042,6 @@
 					}
 ,
 					"patching_rect" : [ 2183.285713672637939, 189.571431159973145, 101.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p manualpointers"
 				}
 
@@ -7098,7 +7070,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7278,15 +7250,10 @@
 								}
 
 							}
- ],
-						"originid" : "pat-7014"
+ ]
 					}
 ,
 					"patching_rect" : [ 3323.0, 1137.0, 81.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p pointerstate"
 				}
 
@@ -7368,7 +7335,6 @@
 							"parameter_longname" : "pointer_4_state",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointer04",
 							"parameter_type" : 2
 						}
@@ -7429,7 +7395,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7609,15 +7575,10 @@
 								}
 
 							}
- ],
-						"originid" : "pat-7016"
+ ]
 					}
 ,
 					"patching_rect" : [ 2431.5, 1149.0, 81.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p pointerstate"
 				}
 
@@ -7699,7 +7660,6 @@
 							"parameter_longname" : "pointer_3_state",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointer03",
 							"parameter_type" : 2
 						}
@@ -7724,7 +7684,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -7904,15 +7864,10 @@
 								}
 
 							}
- ],
-						"originid" : "pat-7018"
+ ]
 					}
 ,
 					"patching_rect" : [ 1473.0, 1068.0, 81.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p pointerstate"
 				}
 
@@ -7994,7 +7949,6 @@
 							"parameter_longname" : "pointer_2_state",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointer02",
 							"parameter_type" : 2
 						}
@@ -8019,7 +7973,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -8199,15 +8153,10 @@
 								}
 
 							}
- ],
-						"originid" : "pat-7020"
+ ]
 					}
 ,
 					"patching_rect" : [ 569.0, 1108.0, 81.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p pointerstate"
 				}
 
@@ -8289,7 +8238,6 @@
 							"parameter_longname" : "pointer_1_state",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointer01",
 							"parameter_type" : 2
 						}
@@ -8688,7 +8636,6 @@
 							"parameter_longname" : "pointer_4_mode",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointerstate",
 							"parameter_type" : 2
 						}
@@ -8755,7 +8702,6 @@
 							"parameter_longname" : "pointer_3_mode",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointerstate",
 							"parameter_type" : 2
 						}
@@ -8822,7 +8768,6 @@
 							"parameter_longname" : "pointer_2_mode",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointerstate",
 							"parameter_type" : 2
 						}
@@ -8889,7 +8834,6 @@
 							"parameter_longname" : "pointer_1_mode",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pointerstate",
 							"parameter_type" : 2
 						}
@@ -8962,7 +8906,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -9136,7 +9080,6 @@
 
 							}
  ],
-						"originid" : "pat-7022",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -10085,10 +10028,6 @@
 					}
 ,
 					"patching_rect" : [ 780.444445610046387, 757.783229351043701, 77.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p nodestates"
 				}
 
@@ -10472,7 +10411,6 @@
 							"parameter_longname" : "info",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "info",
 							"parameter_type" : 2
 						}
@@ -10497,13 +10435,13 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 490.0, 104.0, 420.0, 756.0 ],
+						"rect" : [ 425.0, 62.0, 620.0, 819.0 ],
 						"openinpresentation" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
 						"toolbars_unpinned_last_save" : 15,
@@ -10520,8 +10458,8 @@
 									"patching_rect" : [ 219.0, 683.0, 353.0, 56.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 2,
-									"presentation_rect" : [ 7.0, 687.0, 404.0, 39.0 ],
-									"text" : "Creation during Polyphonic Performance Spaces Research Symposium, KCB Brussels, 2022. Patch revision: December 2024",
+									"presentation_rect" : [ 7.0, 766.0, 404.0, 39.0 ],
+									"text" : "Creation during Polyphonic Performance Spaces Research Symposium, KCB Brussels, 2022. Last patch revision: August 2025",
 									"textcolor" : [ 0.164705882352941, 0.164705882352941, 0.164705882352941, 1.0 ]
 								}
 
@@ -10536,8 +10474,9 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 175.0, 761.0, 353.0, 23.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 7.0, 662.0, 55.0, 23.0 ],
-									"text" : "Patch by"
+									"presentation_rect" : [ 7.0, 741.0, 55.0, 23.0 ],
+									"text" : "Patch by",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10552,7 +10491,7 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 469.0, 407.0, 119.0, 23.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 58.0, 662.0, 122.0, 23.0 ],
+									"presentation_rect" : [ 58.0, 741.0, 122.0, 23.0 ],
 									"text" : "Benjamin Van Esser",
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"underline" : 1
@@ -10570,7 +10509,7 @@
 									"parameter_enable" : 0,
 									"patching_rect" : [ 469.0, 407.0, 124.0, 19.994741000000001 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 58.0, 663.0, 117.698730000000012, 19.994741000000005 ]
+									"presentation_rect" : [ 58.0, 742.0, 117.698730000000012, 19.994741000000005 ]
 								}
 
 							}
@@ -10600,8 +10539,9 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 5.0, 340.0, 191.0, 27.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 7.0, 312.0, 161.0, 27.0 ],
-									"text" : "settings"
+									"presentation_rect" : [ 7.0, 376.0, 161.0, 27.0 ],
+									"text" : "settings",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10609,15 +10549,16 @@
 								"box" : 								{
 									"fontname" : "Avenir Medium",
 									"id" : "obj-4",
-									"linecount" : 38,
+									"linecount" : 44,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 8.0, 371.0, 155.0, 629.0 ],
+									"patching_rect" : [ 8.0, 371.0, 155.0, 728.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 18,
-									"presentation_rect" : [ 7.0, 341.0, 409.0, 302.0 ],
-									"text" : "Fleurie allows for a variety of settings: \n\nNodes: change state (active/inactive), mode (static/dynamic; i.e. move by itself), size, position in playing field, performance description, assigned effect.\n\nBreakout nodes: go to separate window with nodes (comes in handy when using a secondary screen for the players; option to full screen).\n\nEffect settings: all settings for the effects, including state (on/off), effect parameters, panning, volume, pointer control, trigger probability. Effects can be setup to be automated or performed live.\n\nPointers: breakout access to 4 pointers.\n\nMIDI/KEY map: map Fleurie's parameters to a MIDI controller\n\nhint: hover cursor over interface elements to reveal tooltips "
+									"presentation_rect" : [ 7.0, 402.0, 606.0, 302.0 ],
+									"text" : "Fleurie allows for a variety of settings: \n\nNodes: change state (active/inactive), mode (static/dynamic; i.e. move by itself), size, position in playing field, performance description, assigned effect.\n\nBreakout nodes: go to separate window with nodes (comes in handy when using a secondary screen for the players; option to full screen).\n\nEffect settings: all settings for the effects, including state (on/off), effect parameters, panning, volume, pointer control, trigger probability. Effects can be setup to be generative or performed live. In case of live electronics performance: a custom Lemur interface (pre 2024 version) is provided (see included folder ‘Lemur interface’).\n\nPointers: breakout access to 4 pointers.\n\nMIDI/KEY map: map Fleurie's parameters to a MIDI controller or computer keyboard\n\nhint: hover cursor over interface elements to reveal tooltips ",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10625,15 +10566,16 @@
 								"box" : 								{
 									"fontname" : "Avenir Medium",
 									"id" : "obj-2",
-									"linecount" : 7,
+									"linecount" : 10,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 5.0, 186.0, 155.0, 121.0 ],
+									"patching_rect" : [ 5.0, 186.0, 155.0, 170.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 4,
-									"presentation_rect" : [ 7.0, 229.0, 404.0, 72.0 ],
-									"text" : "- activate/config audio input & output\n- activate pointer 1\n- set mode to dynamic (next to pointer state)\n- hit play and start playing your instrument"
+									"presentation_rect" : [ 7.0, 293.0, 606.0, 72.0 ],
+									"text" : "- activate/config audio input & output (inputs 1, 2, 3, 4 are coupled to pointers (players) 1, 2, 3, 4 by default\n- activate pointer 1\n- set mode to dynamic (next to pointer state)\n- hit play and start playing your instrument",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10648,8 +10590,9 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 8.0, 157.0, 191.0, 27.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 7.0, 200.0, 161.0, 27.0 ],
-									"text" : "1 player quick start"
+									"presentation_rect" : [ 7.0, 266.0, 161.0, 27.0 ],
+									"text" : "1 player quick start",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10665,7 +10608,8 @@
 									"patching_rect" : [ 5.0, 9.0, 221.0, 31.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 7.0, 18.0, 186.0, 31.0 ],
-									"text" : "FLEURIE"
+									"text" : "FLEURIE",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10673,15 +10617,16 @@
 								"box" : 								{
 									"fontname" : "Avenir Medium",
 									"id" : "obj-10",
-									"linecount" : 21,
+									"linecount" : 44,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 175.0, 243.0, 163.0, 351.0 ],
+									"patching_rect" : [ 175.0, 243.0, 166.0, 728.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 8,
-									"presentation_rect" : [ 7.0, 53.0, 404.0, 138.0 ],
-									"text" : "Fleurie is a real-time composition system which guides up to 4  participating musicians by proposing playing techniques, dynamics, pitches, note density levels, etc. Apart from acoustic guidance, Fleurie's progression also generates electronic effects based on the pointer positions within Fleurie's playing field. Apart from automating the movement of the pointers (dynamic mode or trigger next position), Fleurie also allows for electronic performers to guide their acoustic colleagues, putting them in the guise of conductors."
+									"presentation_linecount" : 12,
+									"presentation_rect" : [ 7.0, 53.0, 606.0, 203.0 ],
+									"text" : "Fleurie is a versatile open musical software environment that invites and enables performers to explore and create an electroacoustic piece of music in real-time. Up to 4 acoustic instrumentalists can join in a session of Fleurie, either accompanied by generative electronics or by up to 2 live electronics performers, that can also take the guise of conductor, by guiding their acoustic colleagues into the next musical direction.\n\nFleurie attempts to redraw the boundaries of composition by questioning the origin and nature of the creative endeavour. The combination of Fleurie’s open-ended playing instructions, its flexible node and pointer operations, its generative and configurable sound effects and an option for live electronics intervention and structure and content control makes of Fleurie a powerful, versatile, creative musical system that allows for virtually infinite possibilities in regard to musical outcome. As such, Fleurie’s upshot lies not in notated predestination but rather in the creativity it sparks, the collective imagination it requires and the teamwork it demands to come to life.",
+									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 								}
 
 							}
@@ -10721,7 +10666,6 @@
 											"parameter_invisible" : 2,
 											"parameter_longname" : "nodes[6]",
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "nodes",
 											"parameter_type" : 3
 										}
@@ -10878,7 +10822,6 @@
 
 							}
  ],
-						"originid" : "pat-7024",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -11839,7 +11782,6 @@
 ,
 					"patching_rect" : [ 2329.285713672637939, 188.571431159973145, 38.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"globalpatchername" : "",
 						"locked_bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 					}
 ,
@@ -12012,6 +11954,11 @@
 			}
 , 			{
 				"box" : 				{
+					"activedialcolor" : [ 0.419607843137255, 0.827450980392157, 0.980392156862745, 1.0 ],
+					"activefgdialcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"activeneedlecolor" : [ 0.074509803921569, 0.074509803921569, 0.074509803921569, 1.0 ],
+					"dialcolor" : [ 0.576470588235294, 0.576470588235294, 0.576470588235294, 1.0 ],
+					"focusbordercolor" : [ 0.054901960784314, 0.054901960784314, 0.054901960784314, 1.0 ],
 					"hint" : "Set effect gain exponent for pointers when moving from the rim to the center of a node. Higher values result in louder effect output when moving towards the center of the node.",
 					"id" : "obj-13",
 					"maxclass" : "live.dial",
@@ -12024,12 +11971,36 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 1017.112241744995117, 87.5, 27.0, 37.0 ],
 					"saved_attribute_attributes" : 					{
+						"activedialcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activefgdialcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeneedlecolor" : 						{
+							"expression" : ""
+						}
+,
+						"dialcolor" : 						{
+							"expression" : ""
+						}
+,
+						"focusbordercolor" : 						{
+							"expression" : ""
+						}
+,
 						"panelcolor" : 						{
 							"expression" : ""
 						}
 ,
 						"textcolor" : 						{
-							"expression" : "themecolor.live_dial_triangle"
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
+							"expression" : ""
 						}
 ,
 						"valueof" : 						{
@@ -12039,7 +12010,6 @@
 							"parameter_mmax" : 0.7,
 							"parameter_mmin" : 0.3,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "exponential base",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 1
@@ -12048,7 +12018,8 @@
 					}
 ,
 					"showname" : 0,
-					"textcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
+					"textcolor" : [ 0.094117647058824, 0.094117647058824, 0.094117647058824, 1.0 ],
+					"tricolor" : [ 0.094117647058824, 0.094117647058824, 0.094117647058824, 1.0 ],
 					"varname" : "exponential base"
 				}
 
@@ -12146,7 +12117,6 @@
 							"parameter_longname" : "reset",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reset",
 							"parameter_type" : 2
 						}
@@ -12347,7 +12317,6 @@
 							"parameter_longname" : "effect settings",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "effect settings",
 							"parameter_type" : 2
 						}
@@ -12372,13 +12341,13 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 69.0, 355.0, 1390.0, 518.0 ],
+						"rect" : [ 69.0, 307.0, 1390.0, 518.0 ],
 						"openinpresentation" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
 						"toolbarvisible" : 0,
@@ -12753,7 +12722,6 @@
 											"parameter_invisible" : 2,
 											"parameter_longname" : "nodes[4]",
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "nodes",
 											"parameter_type" : 3
 										}
@@ -12803,7 +12771,6 @@
 											"parameter_invisible" : 2,
 											"parameter_longname" : "nodes[5]",
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "nodes",
 											"parameter_type" : 3
 										}
@@ -12975,7 +12942,6 @@
 
 							}
  ],
-						"originid" : "pat-7028",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -13934,10 +13900,6 @@
 					}
 ,
 					"patching_rect" : [ 666.0, 1488.0, 826.5, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p effectsettings",
 					"varname" : "patcher"
 				}
@@ -14063,8 +14025,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 1013.612241744995117, 139.5, 34.0, 383.0 ],
 					"saved_attribute_attributes" : 					{
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"textcolor" : 						{
-							"expression" : "themecolor.live_meter_bg"
+							"expression" : ""
+						}
+,
+						"tribordercolor" : 						{
+							"expression" : ""
 						}
 ,
 						"tricolor" : 						{
@@ -14083,7 +14053,6 @@
 							"parameter_mmax" : 6.0,
 							"parameter_mmin" : -70.0,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "master",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4
@@ -14091,7 +14060,9 @@
 
 					}
 ,
-					"textcolor" : [ 0.156862745098039, 0.156862745098039, 0.156862745098039, 1.0 ],
+					"slidercolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
+					"textcolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
+					"tribordercolor" : [ 0.098039215686275, 0.098039215686275, 0.098039215686275, 1.0 ],
 					"tricolor" : [ 0.643137254901961, 0.643137254901961, 0.643137254901961, 1.0 ],
 					"trioncolor" : [ 0.541176470588235, 0.541176470588235, 0.541176470588235, 1.0 ],
 					"varname" : "master",
@@ -14345,7 +14316,6 @@
 							"parameter_longname" : "breakout nodes",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "breakout nodes",
 							"parameter_type" : 2
 						}
@@ -14370,13 +14340,13 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 124.0, 53.0, 1238.0, 907.0 ],
+						"rect" : [ 0.0, 0.0, 1536.0, 960.0 ],
 						"openinpresentation" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
 						"toolbars_unpinned_last_save" : 15,
@@ -14584,7 +14554,7 @@
 										"appversion" : 										{
 											"major" : 9,
 											"minor" : 0,
-											"revision" : 2,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -14758,7 +14728,6 @@
 
 											}
  ],
-										"originid" : "pat-8300",
 										"styles" : [ 											{
 												"name" : "AudioStatus_Menu",
 												"default" : 												{
@@ -15707,10 +15676,6 @@
 									}
 ,
 									"patching_rect" : [ 106.5, 520.0, 77.0, 22.0 ],
-									"saved_object_attributes" : 									{
-										"globalpatchername" : ""
-									}
-,
 									"text" : "p nodestates"
 								}
 
@@ -15802,7 +15767,6 @@
 											"parameter_longname" : "fullscreen",
 											"parameter_mmax" : 1,
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "fullscreen",
 											"parameter_type" : 2
 										}
@@ -15947,12 +15911,11 @@
 									"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"displayknob" : 2,
 									"fontname" : "Ableton Sans Light Regular",
 									"fontsize" : 40.0,
 									"id" : "obj-80",
 									"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/4.png",
+									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/4.png",
 									"knobsize" : 50.0,
 									"maxclass" : "nodes",
 									"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -15968,8 +15931,8 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 282.0, 4.0, 955.0, 955.0 ],
 									"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-									"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+									"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+									"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 								}
 
 							}
@@ -15984,12 +15947,11 @@
 									"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"displayknob" : 2,
 									"fontname" : "Ableton Sans Light Regular",
 									"fontsize" : 40.0,
 									"id" : "obj-79",
 									"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/3.png",
+									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/3.png",
 									"knobsize" : 50.0,
 									"maxclass" : "nodes",
 									"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -16005,8 +15967,8 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 282.0, 4.0, 955.0, 955.0 ],
 									"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-									"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+									"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+									"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 								}
 
 							}
@@ -16021,12 +15983,11 @@
 									"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 									"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"displayknob" : 2,
 									"fontname" : "Ableton Sans Light Regular",
 									"fontsize" : 40.0,
 									"id" : "obj-7",
 									"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/2.png",
+									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/2.png",
 									"knobsize" : 50.0,
 									"maxclass" : "nodes",
 									"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -16042,8 +16003,8 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 282.0, 4.0, 955.0, 955.0 ],
 									"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-									"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-									"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+									"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+									"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 								}
 
 							}
@@ -16058,11 +16019,10 @@
 									"candycane6" : [ 0.999915, 0.786081, 0.518852, 0.5 ],
 									"candycane7" : [ 1.0, 0.654317, 0.968429, 0.5 ],
 									"candycane8" : [ 0.99811, 0.832816, 0.989818, 0.5 ],
-									"displayknob" : 2,
 									"fontname" : "Ableton Sans Light Regular",
 									"fontsize" : 40.0,
 									"id" : "obj-1",
-									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/1.png",
+									"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/1.png",
 									"knobsize" : 50.0,
 									"maxclass" : "nodes",
 									"mousemode" : 2,
@@ -16085,7 +16045,6 @@
 											"parameter_invisible" : 2,
 											"parameter_longname" : "nodes[7]",
 											"parameter_modmode" : 0,
-											"parameter_osc_name" : "<default>",
 											"parameter_shortname" : "nodes",
 											"parameter_type" : 3
 										}
@@ -16094,8 +16053,8 @@
 ,
 									"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"varname" : "nodes",
-									"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-									"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+									"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+									"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 								}
 
 							}
@@ -16637,7 +16596,6 @@
 
 							}
  ],
-						"originid" : "pat-8298",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -17600,7 +17558,6 @@
 					"patching_rect" : [ 2032.285713672637939, 188.571431159973145, 51.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"editing_bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-						"globalpatchername" : "",
 						"locked_bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 					}
 ,
@@ -17622,13 +17579,15 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
 						"rect" : [ 25.0, 69.0, 640.0, 480.0 ],
+						"default_fontsize" : 11.0,
+						"default_fontname" : "Helvetica Neue",
 						"gridsize" : [ 18.0, 6.0 ],
 						"boxes" : [ 							{
 								"box" : 								{
@@ -17758,15 +17717,13 @@
 								}
 
 							}
- ],
-						"originid" : "pat-8304"
+ ]
 					}
 ,
 					"patching_rect" : [ 58.0, 554.0, 39.0, 21.0 ],
 					"saved_object_attributes" : 					{
 						"fontname" : "Helvetica Neue",
-						"fontsize" : 11.0,
-						"globalpatchername" : ""
+						"fontsize" : 11.0
 					}
 ,
 					"text" : "p cpu"
@@ -17786,7 +17743,7 @@
 					"patching_rect" : [ 94.0, 554.0, 38.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 969.0, 42.0, 38.0, 22.0 ],
-					"text" : "18%",
+					"text" : "0%",
 					"textcolor" : [ 0.313725490196078, 0.313725490196078, 0.313725490196078, 1.0 ]
 				}
 
@@ -18186,16 +18143,16 @@
 						"keymapping" : [ -1 ],
 						"master" : [ 0.0 ],
 						"midimapping" : [ -1 ],
-						"nodes" : [ 0.898734, 0.121622, 0.322222222222222, 1, 0.1, 0.5, 0.26, 1, 0.592593, 0.146026, 0.233333333333333, 1, 0.531481, 0.866913, 0.34, 1, 0.217899, 0.108614, 0.366666666666667, 1, 0.157407, 0.83549, 0.295555555555556, 1, 0.896296, 0.641405, 0.393333333333333, 1, 0.501852, 0.489834, 0.331111111111111, 1 ],
+						"nodes" : [ 0.898734, 0.121622, 0.322222222222222, 1, 0.12037, 0.44732, 0.26, 1, 0.592593, 0.146026, 0.233333333333333, 1, 0.531481, 0.866913, 0.34, 1, 0.217899, 0.108614, 0.366666666666667, 1, 0.157407, 0.83549, 0.295555555555556, 1, 0.896296, 0.641405, 0.393333333333333, 1, 0.501852, 0.489834, 0.331111111111111, 1 ],
 						"nodes[1]" : [ 0.898734, 0.121622, 0.320333, 1, 0.12037, 0.44732, 0.349, 1, 0.592593, 0.146026, 0.310183, 1, 0.531481, 0.866913, 0.349, 1, 0.217899, 0.108614, 0.349, 1, 0.157407, 0.83549, 0.349, 1, 0.896296, 0.641405, 0.485784, 1, 0.501852, 0.489834, 0.271428571428571, 1 ],
 						"pointer_1_mode" : [ 0.0 ],
-						"pointer_1_state" : [ 1.0 ],
+						"pointer_1_state" : [ 0.0 ],
 						"pointer_2_mode" : [ 0.0 ],
-						"pointer_2_state" : [ 1.0 ],
+						"pointer_2_state" : [ 0.0 ],
 						"pointer_3_mode" : [ 0.0 ],
-						"pointer_3_state" : [ 1.0 ],
+						"pointer_3_state" : [ 0.0 ],
 						"pointer_4_mode" : [ 0.0 ],
-						"pointer_4_state" : [ 1.0 ],
+						"pointer_4_state" : [ 0.0 ],
 						"pointers" : [ 0.0 ],
 						"progression" : [ 2 ],
 						"reset" : [ 0.0 ],
@@ -18220,7 +18177,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -19202,7 +19159,6 @@
 
 							}
  ],
-						"originid" : "pat-8310",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -20151,10 +20107,6 @@
 					}
 ,
 					"patching_rect" : [ 484.5, 182.5, 91.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p switch_speed"
 				}
 
@@ -20188,7 +20140,6 @@
 							"parameter_longname" : "progression",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "progression",
 							"parameter_type" : 2
 						}
@@ -20251,7 +20202,6 @@
 							"parameter_longname" : "state",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "state",
 							"parameter_type" : 2
 						}
@@ -20756,7 +20706,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -21238,7 +21188,6 @@
 
 							}
  ],
-						"originid" : "pat-8392",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -22187,10 +22136,6 @@
 					}
 ,
 					"patching_rect" : [ 3505.25, 616.0, 113.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p ballspeed"
 				}
 
@@ -22216,7 +22161,6 @@
 							"parameter_longname" : "button[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "button[3]",
 							"parameter_type" : 2
 						}
@@ -22239,7 +22183,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -22721,7 +22665,6 @@
 
 							}
  ],
-						"originid" : "pat-8394",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -23670,10 +23613,6 @@
 					}
 ,
 					"patching_rect" : [ 2589.25, 650.0, 113.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p ballspeed"
 				}
 
@@ -23699,7 +23638,6 @@
 							"parameter_longname" : "button[2]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "button[2]",
 							"parameter_type" : 2
 						}
@@ -23722,7 +23660,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -24204,7 +24142,6 @@
 
 							}
  ],
-						"originid" : "pat-8396",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -25153,10 +25090,6 @@
 					}
 ,
 					"patching_rect" : [ 1672.0, 663.0, 113.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p ballspeed"
 				}
 
@@ -25182,7 +25115,6 @@
 							"parameter_longname" : "button[1]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "button[1]",
 							"parameter_type" : 2
 						}
@@ -25205,7 +25137,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 2,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -25687,7 +25619,6 @@
 
 							}
  ],
-						"originid" : "pat-8398",
 						"styles" : [ 							{
 								"name" : "AudioStatus_Menu",
 								"default" : 								{
@@ -26636,10 +26567,6 @@
 					}
 ,
 					"patching_rect" : [ 760.444445610046387, 539.000012397766113, 113.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
-					}
-,
 					"text" : "p ballspeed"
 				}
 
@@ -26665,7 +26592,6 @@
 							"parameter_longname" : "button",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "button",
 							"parameter_type" : 2
 						}
@@ -26866,12 +26792,11 @@
 					"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"displayknob" : 2,
 					"fontname" : "Ableton Sans Light Regular",
 					"fontsize" : 20.0,
 					"id" : "obj-80",
 					"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/4.png",
+					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/4.png",
 					"knobsize" : 40.0,
 					"maxclass" : "nodes",
 					"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -26887,8 +26812,8 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 467.75, 63.5, 532.0, 532.0 ],
 					"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-					"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+					"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+					"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 				}
 
 			}
@@ -26903,12 +26828,11 @@
 					"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"displayknob" : 2,
 					"fontname" : "Ableton Sans Light Regular",
 					"fontsize" : 20.0,
 					"id" : "obj-79",
 					"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/3.png",
+					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/3.png",
 					"knobsize" : 40.0,
 					"maxclass" : "nodes",
 					"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -26924,8 +26848,8 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 467.75, 63.5, 532.0, 532.0 ],
 					"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-					"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+					"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+					"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 				}
 
 			}
@@ -26940,12 +26864,11 @@
 					"candycane6" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane7" : [ 1.0, 1.0, 1.0, 0.0 ],
 					"candycane8" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"displayknob" : 2,
 					"fontname" : "Ableton Sans Light Regular",
 					"fontsize" : 20.0,
 					"id" : "obj-7",
 					"knobcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/2.png",
+					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/2.png",
 					"knobsize" : 40.0,
 					"maxclass" : "nodes",
 					"nodecolor" : [ 1.0, 1.0, 1.0, 0.0 ],
@@ -26961,8 +26884,8 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 467.75, 63.5, 532.0, 532.0 ],
 					"textcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
-					"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-					"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+					"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+					"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 				}
 
 			}
@@ -27053,11 +26976,10 @@
 					"candycane6" : [ 0.999915, 0.786081, 0.518852, 0.5 ],
 					"candycane7" : [ 1.0, 0.654317, 0.968429, 0.5 ],
 					"candycane8" : [ 0.99811, 0.832816, 0.989818, 0.5 ],
-					"displayknob" : 2,
 					"fontname" : "Ableton Sans Light Regular",
 					"fontsize" : 20.0,
 					"id" : "obj-1",
-					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/My Drive/My Max Patches/Fleurie/media/1.png",
+					"knobpict" : "Macintosh HD:/Users/benjaminvanesser/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media/1.png",
 					"knobsize" : 40.0,
 					"maxclass" : "nodes",
 					"mousemode" : 2,
@@ -27080,7 +27002,6 @@
 							"parameter_invisible" : 2,
 							"parameter_longname" : "nodes",
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "nodes",
 							"parameter_type" : 3
 						}
@@ -27089,8 +27010,8 @@
 ,
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"varname" : "nodes",
-					"xplace" : [ 0.898734, 0.1, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
-					"yplace" : [ 0.121622, 0.5, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
+					"xplace" : [ 0.898734, 0.12037, 0.592593, 0.531481, 0.217899, 0.157407, 0.896296, 0.501852 ],
+					"yplace" : [ 0.121622, 0.44732, 0.146026, 0.866913, 0.108614, 0.83549, 0.641405, 0.489834 ]
 				}
 
 			}
@@ -27130,7 +27051,6 @@
 							"parameter_invisible" : 2,
 							"parameter_longname" : "nodes[3]",
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "nodes",
 							"parameter_type" : 3
 						}
@@ -29273,7 +29193,6 @@
 
 			}
  ],
-		"originid" : "pat-7002",
 		"parameters" : 		{
 			"obj-1" : [ "nodes", "nodes", 0 ],
 			"obj-102::obj-116" : [ "textedit[8]", "textedit[7]", 0 ],
@@ -31519,29 +31438,29 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "1.png",
-				"bootpath" : "~/My Drive/My Max Patches/Fleurie/media",
-				"patcherrelativepath" : "../../My Drive/My Max Patches/Fleurie/media",
+				"bootpath" : "~/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
+				"patcherrelativepath" : "../../../../BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "2.png",
-				"bootpath" : "~/My Drive/My Max Patches/Fleurie/media",
-				"patcherrelativepath" : "../../My Drive/My Max Patches/Fleurie/media",
+				"bootpath" : "~/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
+				"patcherrelativepath" : "../../../../BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "3.png",
-				"bootpath" : "~/My Drive/My Max Patches/Fleurie/media",
-				"patcherrelativepath" : "../../My Drive/My Max Patches/Fleurie/media",
+				"bootpath" : "~/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
+				"patcherrelativepath" : "../../../../BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "4.png",
-				"bootpath" : "~/My Drive/My Max Patches/Fleurie/media",
-				"patcherrelativepath" : "../../My Drive/My Max Patches/Fleurie/media",
+				"bootpath" : "~/BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
+				"patcherrelativepath" : "../../../../BVE CREA/BVE Max Patches/Fleurie/Fleurie_20241203/media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
@@ -31553,49 +31472,49 @@
 			}
 , 			{
 				"name" : "fleurie.yafr2.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fleurie_chrono.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fleurie_chrono_big.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fleurie_initialize_default.json",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fleurie_knobsettings.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fleurie_nodesrouter.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "nodesproperties.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -31603,20 +31522,20 @@
 , 			{
 				"name" : "rchoose.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "rgrain.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 9/Examples/sampling/granular/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "rgrano_li_u.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -31624,20 +31543,20 @@
 , 			{
 				"name" : "transratio.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/max-tricks/notes-and-pitch/pitch-to-freq-ratio",
-				"patcherrelativepath" : "../../Library/Application Support/Cycling '74/Max 9/Examples/max-tricks/notes-and-pitch/pitch-to-freq-ratio",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 9/Examples/max-tricks/notes-and-pitch/pitch-to-freq-ratio",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ulto_rgrano_li.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr3.maxpat",
-				"bootpath" : "~/Desktop/Fleurie_20241203",
+				"bootpath" : "~/Desktop/ISCM 2026/Fleurie - Named/Fleurie_20250802",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
